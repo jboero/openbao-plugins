@@ -1,5 +1,5 @@
 PLUGIN_PREFIX := openbao-plugin
-PLUGINS := $(subst /,-,$(wildcard auth/* secrets/* databases/*))
+PLUGINS := $(subst /,-,$(wildcard auth/* secrets/* databases/* seal/*))
 PLUGIN := $(firstword $(PLUGINS))
 REGISTRY := ghcr.io/openbao
 VERSION := $(shell git describe --tags --match "$(PLUGIN)-*" | cut -d- -f3-)

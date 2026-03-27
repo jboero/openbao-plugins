@@ -416,6 +416,8 @@ github.com/google/go-metrics-stackdriver v0.2.0/go.mod h1:KLcPyp3dWJAFD+yHisGlJS
 github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
 github.com/google/go-querystring v1.1.0 h1:AnCroh3fv4ZBgVIf1Iwtovgjaw/GiKJo8M8yD/fhyJ8=
 github.com/google/go-querystring v1.1.0/go.mod h1:Kcdr2DB4koayq7X8pmAG4sNG59So17icRSOU623lUBU=
+github.com/google/go-tpm v0.9.3 h1:+yx0/anQuGzi+ssRqeD6WpXjW2L/V0dItUayO0i9sRc=
+github.com/google/go-tpm v0.9.3/go.mod h1:h9jEsEECg7gtLis0upRBQU+GhYVH6jMjrFxI8u6bVUY=
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/google/gofuzz v1.1.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/google/martian v2.1.0+incompatible/go.mod h1:9I4somxYTbIHy5NJKHRl3wXiIaQGbYVAs8BPL6v8lEs=
@@ -798,6 +800,8 @@ github.com/onsi/gomega v1.37.0 h1:CdEG8g0S133B4OswTDC/5XPSzE1OeP29QOioj2PID2Y=
 github.com/onsi/gomega v1.37.0/go.mod h1:8D9+Txp43QWKhM24yyOBEdpkzN8FvJyAwecBgsU4KU0=
 github.com/openbao/go-kms-wrapping/entropy/v2 v2.1.0 h1:f+OX5kI8KLPYhzRhqhQTQPashOx5SxPaWtd24hoT5vo=
 github.com/openbao/go-kms-wrapping/entropy/v2 v2.1.0/go.mod h1:2ZTItykGc/yQcdNfyK2TPBYKlOibfwSPr7ugFyqGXlI=
+github.com/openbao/go-kms-wrapping/plugin/v2 v2.2.0 h1:LEnfnJ9V7kYTKCCp5C2IiSl/xNFseDdUzvquvFQ+dhE=
+github.com/openbao/go-kms-wrapping/plugin/v2 v2.2.0/go.mod h1:GUlbtZ91JJ5jUrpNEXXkCoSzEST6zjM3zbh++JbYX58=
 github.com/openbao/go-kms-wrapping/v2 v2.5.0 h1:vHGKqdPCIkygkTFlDyq3fvhe2G7GGEJOztrhpSwNy4M=
 github.com/openbao/go-kms-wrapping/v2 v2.5.0/go.mod h1:fnDDM+YoNBmpvqBWqeCnEBPEbQdzwAUoaZrLNDmDqmY=
 github.com/openbao/go-kms-wrapping/wrappers/aead/v2 v2.2.0 h1:4rOcxuTp6y+LwX6e1bp7+VKiwqjmpGr3bkMLbAPod08=

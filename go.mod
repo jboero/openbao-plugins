@@ -156,6 +156,7 @@ require (
 	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/go-metrics-stackdriver v0.2.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
+	github.com/google/go-tpm v0.9.3 // indirect
 	github.com/google/s2a-go v0.1.9 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.6 // indirect
 	github.com/googleapis/gax-go/v2 v2.15.0 // indirect
@@ -230,6 +231,7 @@ require (
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/okta/okta-sdk-golang/v2 v2.20.0 // indirect
 	github.com/openbao/go-kms-wrapping/entropy/v2 v2.1.0 // indirect
+	github.com/openbao/go-kms-wrapping/plugin/v2 v2.2.0 // indirect
 	github.com/openbao/go-kms-wrapping/v2 v2.5.0 // indirect
 	github.com/openbao/go-kms-wrapping/wrappers/aead/v2 v2.2.0 // indirect
 	github.com/openbao/go-kms-wrapping/wrappers/alicloudkms/v2 v2.2.0 // indirect
